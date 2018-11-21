@@ -16,3 +16,7 @@ git commit, git add, git log
 
 #Useful info
 git log --oneline
+to add a directory it must contain a least one file.
+```
+> touch data/.keepthis
+```
