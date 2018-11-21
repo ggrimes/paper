@@ -12,3 +12,7 @@ some  method section
 ## Conclusions
 
 git commit, git add, git log
+
+
+#Useful info
+git log --oneline
