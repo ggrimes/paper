@@ -7,12 +7,15 @@ This lives [here](https://github.com/ggrimes/paper)
 Added a local change
 
 ## test
+
 test
 
 ## Results
+
 These are the results
 
 ## Methods
+
 some  method section
 
 
