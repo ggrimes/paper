@@ -4,13 +4,13 @@
 
 In this paper we do something.
 
-##test
+## test
 test
 
-##Results
+## Results
 These are the results
 
-##Methods
+## Methods
 some  method section
 
 
@@ -19,7 +19,7 @@ some  method section
 git commit, git add, git log
 
 
-#Useful info
+# Useful info
 git log --oneline
 to add a directory it must contain a least one file.
 ```
