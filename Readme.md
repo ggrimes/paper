@@ -5,7 +5,10 @@
 In this paper we do something.
 
 
-#Methods
+##Results
+These are the results
+
+##Methods
 some  method section
 
 
