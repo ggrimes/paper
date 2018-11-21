@@ -1,0 +1,8 @@
+# Do not want these files
+*_big.dat
+
+# Ignore editor backup files
+*~
+*#
+~*.docx
+~
